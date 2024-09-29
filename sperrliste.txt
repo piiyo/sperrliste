@@ -1,0 +1,8 @@
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+pagead2.googlesyndication.com
+adservice.google.com
+pagead2.googleadservices.com
+afs.googlesyndication.com
